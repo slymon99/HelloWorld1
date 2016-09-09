@@ -14,6 +14,7 @@ public class Main {
         System.out.println(usefulObject.getPeopleInSpace());
 
         System.out.println("wowo");
+        System.out.println("local change on main v2");
 
     }
 
