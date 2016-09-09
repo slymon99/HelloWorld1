@@ -6,7 +6,7 @@ public class Main {
         System.out.println("Hello World from HACS");
         System.out.println("Change v2");
         System.out.println("Change v3");
-        System.out.println("Change v4");
+        System.out.println("Change v5");
     }
 
 }
