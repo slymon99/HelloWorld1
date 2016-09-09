@@ -11,6 +11,8 @@ public class Main {
         PeopleInSpaceCalculator usefulObject = new PeopleInSpaceCalculator();
         System.out.println(usefulObject.getPeopleInSpace());
 
+        System.out.println("wowo");
+
     }
 
 }
