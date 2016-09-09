@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World from HACS");
         System.out.println("Change v2");
+        System.out.println("Change v3");
     }
 
 }
